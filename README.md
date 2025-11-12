@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm I Own Duck
+# 👋 Hello, I Own Duck
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Blockchain+Developer;Smart+Contract+Engineer;EVM+Chain+Builder;Solidity+%26+Rust+Enthusiast" alt="Typing SVG" />
 
