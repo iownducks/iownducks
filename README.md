@@ -114,25 +114,6 @@ contract Developer {
 
 ---
 
-## 💡 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iownducks&repo=project1&theme=tokyonight)](https://github.com/iownducks/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iownducks&repo=project2&theme=tokyonight)](https://github.com/iownducks/project2)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 💬 Random Dev Quote
 
 <div align="center">
