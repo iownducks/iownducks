@@ -72,7 +72,7 @@ contract Developer {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iownducks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iownducks&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iownducks&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=iownducks&hide=html,css"/>
 
 </div>
 
