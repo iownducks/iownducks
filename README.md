@@ -104,16 +104,6 @@ contract Developer {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/iownducks/iownducks/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 💬 Random Dev Quote
 
 <div align="center">
