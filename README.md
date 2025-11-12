@@ -78,7 +78,7 @@ contract Developer {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iownducks&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iownducks&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
